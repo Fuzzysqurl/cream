@@ -125,6 +125,11 @@
 [colorable]:hover {
   text-decoration: none;
   color: white;
+  background-color: rgb(88,88,88);
+}
+
+.filter {
+  white-space: nowrap;
 }
 
 nav.navbar {
